@@ -1,6 +1,6 @@
 # gitblind
 
-Version: 0.1.0
+Version: 1.0.0
 
 Author: [FaizChishtie](https://github.com/FaizChishtie)
 
