@@ -3,9 +3,6 @@
   "version": "0.1.0",
   "description": "Keep files in local git repositories that'll never be committed.",
   "main": "index.js",
-  "scripts": {
-    "test": "jest"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/FaizChishtie/gitblind.git"
@@ -22,5 +19,10 @@
   "bugs": {
     "url": "https://github.com/FaizChishtie/gitblind/issues"
   },
-  "homepage": "https://github.com/FaizChishtie/gitblind#readme"
+  "homepage": "https://github.com/FaizChishtie/gitblind#readme",
+  "dependencies": {
+    "chalk": "^5.2.0",
+    "commander": "^10.0.0",
+    "conf": "^11.0.1"
+  }
 }
