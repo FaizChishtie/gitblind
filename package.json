@@ -1,0 +1,26 @@
+{
+  "name": "gitblind",
+  "version": "0.1.0",
+  "description": "Keep files in local git repositories that'll never be committed.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaizChishtie/gitblind.git"
+  },
+  "keywords": [
+    "git",
+    "gitignore",
+    "ignore",
+    "local",
+    "files"
+  ],
+  "author": "FaizChishtie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/FaizChishtie/gitblind/issues"
+  },
+  "homepage": "https://github.com/FaizChishtie/gitblind#readme"
+}
