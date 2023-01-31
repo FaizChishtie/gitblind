@@ -1,6 +1,6 @@
 {
   "name": "gitblind",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Keep files in local git repositories that'll never be committed.",
   "main": "index.js",
   "repository": {
