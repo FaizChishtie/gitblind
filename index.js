@@ -5,7 +5,7 @@ const { isCurrentDirAGitRepo, addFileNameToGitExclude, listBlindedFiles, removeB
 program
     .name('gitblind')
     .description("Keep files in local git repositories that'll never be committed.")
-    .version('1.0.0');
+    .version('1.0.2');
 
 program.hook('preAction', () => {
     if (!isCurrentDirAGitRepo()) {

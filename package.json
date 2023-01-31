@@ -7,6 +7,9 @@
     "type": "git",
     "url": "git+https://github.com/FaizChishtie/gitblind.git"
   },
+  "bin": {
+    "gitblind": "./index.js"
+  },
   "keywords": [
     "git",
     "gitignore",
