@@ -14,6 +14,16 @@ Sometimes you need to keep a file in your repository that you don't want to comm
 
 `gitblind` adds files or patterns you choose to blind to your local `.git/info/exclude` file. This file is not tracked by git, so it won't be committed to your repository.
 
+## Contents
+
+- [Installation](#installation)
+- [Usage](#usage)
+  - [Blind a file](#blind-a-file)
+  - [Blind a pattern](#blind-a-pattern)
+  - [List all blinded files](#list-all-blinded-files)
+  - [Unblind a file](#unblind-a-file)
+  - [Reset all blinded files](#reset-all-blinded-files)
+
 ## Installation
 
 You can install `gitblind` with `npm`:
